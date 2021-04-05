@@ -1,0 +1,1 @@
+console.log('NodeJS is working properly');
